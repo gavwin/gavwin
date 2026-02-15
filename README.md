@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gavin Wainwright (@gavwin)
-- 👀 I’m interested in AI in the medical field
-- 🌱 I’m currently studying Computer Science & Math with a concentration in Artificial Intelligence
+- 👀 I’m interested in AI, ML, Deep Learning, and Quantitative Finance
+- 🌱 I have a degree in Computer Science & Math with a concentration in Artificial Intelligence
 - 📫 How to reach me: wainwright.g@northeastern.edu
 
 <!---
